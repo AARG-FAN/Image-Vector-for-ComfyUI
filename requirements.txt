@@ -1,0 +1,5 @@
+vtracer==0.3.2
+Wand==0.6.10
+Pillow==9.4.0
+torch==2.0.0
+numpy==1.24.2
