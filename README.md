@@ -14,6 +14,8 @@ install guide安装指南:
 user guide使用说明：
 
 ![image](https://github.com/archifancy/Image-vector-for-ComfyUI/assets/125116261/36c8bd0d-1621-4ba3-966d-2ae54c203bb8)
+SVG file 转换后效果：
+![image](https://github.com/archifancy/Image-vector-for-ComfyUI/assets/125116261/cd49ccec-f76b-418a-ae3e-a41954d90877)
 
 具体参数调整参考：https://github.com/visioncortex/vtracer
 just copy your dir to the output_dir,and click queue prompt, you will get your svg file in the folder
