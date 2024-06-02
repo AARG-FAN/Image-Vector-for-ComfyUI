@@ -9,7 +9,9 @@ install guide安装指南:
 1. cd comfyui/custom_nodes(导航至自定义节点文件夹)
 2. git clone(把代码复制到本地)
 3. pip install -r requirements.txt(安装依赖)
-4. restart comfyui(重启comfyUI)
+   (if you are using comfyui-portable, first cd to the folder called"python_embeded",then run "python.exe -m pip install"+"requirements" 如果你用的是comfyui便携版，先导航到python_embeded 这个文件夹，然后用python.exe -m pip install+你要安装的依赖)
+4. install another requirement(https://imagemagick.org/archive/binaries/ImageMagick-7.1.1-33-Q16-HDRI-x64-dll.exe), details on: https://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
+5. restart comfyui(重启comfyUI)
 
 user guide使用说明：
 
