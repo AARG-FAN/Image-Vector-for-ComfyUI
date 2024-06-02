@@ -6,7 +6,7 @@ import torch
 import numpy as np
 import os
 
-class AIvector:
+class AIraster:
     """
     A example node
 
@@ -208,9 +208,9 @@ class AIvector:
             return (None,)
 
 NODE_CLASS_MAPPINGS = {
-    "AIvector": AIvector
+    "AIraster": AIraster
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "AIvector": "AIvector"
+    "AIraster": "AIraster"
 }
