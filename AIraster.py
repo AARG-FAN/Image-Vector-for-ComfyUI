@@ -69,7 +69,7 @@ class AIraster:
                 "filter_speckle": ("INT", {
                     "default": 4,
                     "min": 1,
-                    "max": 10,
+                    "max": 128,
                     "step": 1
                 }),
                 "color_precision": ("INT", {
