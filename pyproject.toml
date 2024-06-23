@@ -1,0 +1,15 @@
+[project]
+name = "image-vector-for-comfyui"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["vtracer", "Wand", "Pillow", "torch", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/AARG-FAN/Image-Vector-for-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Image-Vector-for-ComfyUI"
+Icon = ""
